@@ -7,6 +7,8 @@ https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericasVoice.us",America's Voice (720p)
 https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="BabySharkTV.us",Baby Shark TV
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BloodyDisgusting.us",Bloody Disgusting (1080p)
 https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Buzzr.us",Buzzr (1080p)
